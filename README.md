@@ -1,16 +1,20 @@
-# age_checker
+# Horror Movie Age Checker
 
-A new Flutter project.
+This application helps users determine if they can watch a horror movie based on their age.
 
-## Getting Started
+# Features:
 
-This project is a starting point for a Flutter application.
+- Age Verification – Enter your age, and the app will tell you if you’re allowed to watch the movie.
 
-A few resources to get you started if this is your first Flutter project:
+- Criteria:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  - Under 16 – Not allowed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  - 16-17 – Allowed with adults.
+
+  - 18+ – Free to watch.
+
+   # Preview
+
+![](assets/images/age1.gif)
+![](assets/images/age18.gif)
