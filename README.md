@@ -16,7 +16,7 @@ This application helps users determine if they can watch a horror movie based on
 
   # Used Packages:
   
- # animation:
+  # animation:
  
   flutter_flip_card.
 
