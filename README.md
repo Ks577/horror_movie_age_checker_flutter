@@ -20,5 +20,9 @@ This application helps users determine if they can watch a horror movie based on
 
 # Preview
 
-![](assets/images/age.gif)
+<p align="center">
+  <img src="assets/images/form1.jpg" width="30%" />
+  <img src="assets/images/form2.jpg" width="30%" />
+  <img src="assets/images/form3.jpg" width="30%" />
+</p>
 
