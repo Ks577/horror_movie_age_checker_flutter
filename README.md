@@ -21,8 +21,7 @@ This application helps users determine if they can watch a horror movie based on
 # Preview
 
 <p align="center">
-  <img src="assets/images/form1.jpg" width="30%" />
-  <img src="assets/images/form2.jpg" width="30%" />
-  <img src="assets/images/form3.jpg" width="30%" />
+  <img src="assets/images/form1.jpg" height="600" style="display:inline-block;"/>
+  <img src="assets/images/form2.jpg" height="600" style="display:inline-block;"/>
+  <img src="assets/images/form3.jpg" height="600" style="display:inline-block;"/>
 </p>
-
