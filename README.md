@@ -15,9 +15,7 @@ This application helps users determine if they can watch a horror movie based on
   - 18+ – Free to watch.
 
   # Used Packages:
-  
-  # animation:
- 
+   
   flutter_flip_card.
 
    # Preview
