@@ -12,7 +12,7 @@ This application helps users determine if they can watch a horror movie based on
 
   - 16-17 – Allowed with adults
 
-  - 18+ – Free to watch.
+  - 18+ – Free to watch
 
 ### Used Packages:
    
