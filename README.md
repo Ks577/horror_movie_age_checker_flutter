@@ -2,7 +2,7 @@
 
 This application helps users determine if they can watch a horror movie based on their age.
 
-# Features:
+## Features:
 
 - Age Verification – Enter your age, and the app will tell you if you’re allowed to watch the movie.
 
@@ -10,14 +10,14 @@ This application helps users determine if they can watch a horror movie based on
 
   - Under 16 – Not allowed.
 
-  - 16-17 – Allowed with adults.
+  - 16-17 – Allowed with adults
 
   - 18+ – Free to watch.
 
-# Used Packages:
+### Used Packages:
    
-- flutter_flip_card.
+- flutter_flip_card
 
-# Preview
+#### Preview
 
 ![](assets/images/age.gif) 
