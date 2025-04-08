@@ -18,6 +18,6 @@ This application helps users determine if they can watch a horror movie based on
    
 - flutter_flip_card
 
-#### Preview
+### Preview
 
 ![](assets/images/age.gif) 
